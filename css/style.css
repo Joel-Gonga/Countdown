@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    transition: all ease 0.3s;
+}
+
+body{
+    background: url('../img/top-image.svg') no-repeat;
+}
+
+
+.left-div, .right-div{
+    float: left;
+    text-align: center;
+    margin: 35px 0;
+}
+
+footer{
+    float: left;
+    width: 100%;
+    background: url('../img/bottom-image.svg') no-repeat;
+    height: 200px;
+}
+
+h2{
+    color: #863af8b6;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 140px;
+}
+
+.legend{
+    text-transform: uppercase;
+    word-spacing: 20px;
+    opacity: 0.5;
+}
+
+.set-time h1{
+    font-size: 4em;
+    word-spacing: 0px;
+}
+
+p{
+    color: #863af8a2;
+}
+
+.right-div img{
+    margin-top: 100px;
+}
